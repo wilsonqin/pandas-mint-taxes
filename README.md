@@ -21,6 +21,12 @@ This tutorial's syntax assumes you're using Python 2.7 version.
 
 You will need the following Python Packages installed: `pandas`. This can be done in one fell swoop using the `requirements.txt` file provided, by running the command `pip install -r requirements.txt`.
 
+Exporting Mint Transactions
+--------
+Go to your Mint `Transactions`, it should look something like this:
 ![Navigating to Mint Transactions Tab](/tutorial_images/MintTransactionScreen.png?raw=true "Mint Transactions Tab")
 
+Next, to export your transaction history, scroll to the bottom of the tab, and click the export link, which will prompt your browser to download a `transactions.csv` file. Move it to your workspace / working directory.
 ![Mint Export Transactions](/tutorial_images/MintExportTransactions.png?raw=true "Mint Export Transactions")
+
+
