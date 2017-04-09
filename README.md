@@ -7,6 +7,10 @@ Mint is a service that syncs with your financial statements from various credit 
 
 For the purposes of this tutorial, I will use the Python programming language and Pandas data manipulation library, but great alternatives could be R or Excel if you are more familiar with those. This project provides a sample dummy Mint transactions csv export, with example code snippets in `.py`, `.ipython/juptyer` and in markdown form.
 
+### DISCLAIMER: 
+### THIS DEMO IS DISTRIBUTED FOR EDUCATIONAL PURPOSES ONLY. IT IS NOT TAX-RELATED ADVICE OR FILING SOFTWARE. 
+### FOR ALL TAX-RELATED QUESTIONS AND CONCERNS PLEASE ASK A CERTIFIED ACCOUNTANT
+
 
 Before We Start
 --------
