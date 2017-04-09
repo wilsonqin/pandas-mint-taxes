@@ -48,4 +48,4 @@ In this tutorial, you will specifically see some string attribute searches, and 
 
 ![Taxi Transport Example](/tutorial_images/TaxiTransportExample.png?raw=true "Taxi Transport View")
 
-![Public Transit Example](/tutorial_images/PublicTransitExample.png?raw=true "Public Transit Example)
+![Public Transit Example](/tutorial_images/PublicTransitExample.png?raw=true "Public Transit Example")
