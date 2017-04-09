@@ -29,4 +29,21 @@ Go to your Mint `Transactions`, it should look something like this:
 Next, to export your transaction history, scroll to the bottom of the tab, and click the export link, which will prompt your browser to download a `transactions.csv` file. Move it to your workspace / working directory.
 ![Mint Export Transactions](/tutorial_images/MintExportTransactions.png?raw=true "Mint Export Transactions")
 
+Run Python Scripts
+---------
+Jupyter: run `jupyter notebook` in your working directory (the project directory with these scripts) which should allow you to initiate the `review_transactions.ipynb` in your browser window to begin exploring your transactions log.
 
+Python: run `python review_transactions.py`
+
+Quick Overview of Pandas and DataFrames
+------------
+Pandas is a data manipulation library which allows for the creation of in-memory DataFrame objects.
+DataFrames allow for quick access of different data views, essentially accessing your original Data Frame with query predicates (aka attribute filtering) applied.
+This allows for easy manipulations on different data attribute types (integers, floats, strings).
+In this tutorial, you will specifically see some string attribute searches, and numeric summations in action, but this is by no means what Pandas is limited to.
+
+![Pandas Year Date Range Filter 2016](/tutorial_images/YearDateRangeFilterExample.png?raw=true "Pandas Year Date Range Filter 2016")
+
+![Taxi Transport Example](/tutorial_images/TaxiTransportExample.png?raw=true "Taxi Transport View")
+
+![Public Transit Example](/tutorial_images/PublicTransitExample.png?raw=true "Public Transit Example)
