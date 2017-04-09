@@ -38,9 +38,11 @@ Python: run `python review_transactions.py`
 Quick Overview of Pandas and DataFrames
 ------------
 Pandas is a data manipulation library which allows for the creation of in-memory DataFrame objects.
-DataFrames allow for quick access of different data views, essentially accessing your original Data Frame with query predicates (aka attribute filtering) applied.
-This allows for easy manipulations on different data attribute types (integers, floats, strings).
-In this tutorial, you will specifically see some string attribute searches, and numeric summations in action, but this is by no means what Pandas is limited to.
+
+DataFrames allow for quick access to views of your original Data Frame with various query predicates (aka attribute filtering) applied. In this example, the transactions are the rows, with Dates, Descriptions, Amounts, etc as attributes.
+
+This allows for statistical manipulations on different data attribute types (integers, floats, strings).
+In this tutorial, you will specifically see some string attribute searches, and numeric summations in action.
 
 ![Pandas Year Date Range Filter 2016](/tutorial_images/YearDateRangeFilterExample.png?raw=true "Pandas Year Date Range Filter 2016")
 
