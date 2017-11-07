@@ -1,0 +1,1 @@
+11/07/2017: Mint recently changed their CSV transactions export format. E.g. "Date" field now in %M/%d/%Y format instead of %Y-%M-%d.
